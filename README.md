@@ -6,14 +6,14 @@
 
 ###
 
-<p align="left">Olá! Sou um entusiasta da programação, apaixonado por transformar ideias em soluções digitais. Meu nome é Miguel e tenho experiência em desenvolvimento utilizando diversas linguagens de programação.
-Trabalho principalmente com JavaScript, utilizando frameworks e bibliotecas como Next js, Node js e React js para criar interfaces dinâmicas e funcionais. Além disso, sou familiarizado com diversos bancos de dados, incluindo MySQL, SQL e NoSQL, garantindo que as aplicações tenham uma base sólida e eficiente.
-Também tenho experiência em Python e PHP, ampliando minha capacidade de resolver problemas e criar soluções robustas em diferentes contextos. Além disso, estou explorando as possibilidades do Golang, aumentando ainda mais meu repertório de ferramentas para desenvolvimento.</p>
+<p align="left">Oi! Meu nome é Miguel, tenho 16 anos e moro no Rio de Janeiro.
+Estudo programação desde os 11 anos e gosto de aprender criando projetos na prática. Já trabalhei com JavaScript, Python, TypeScript, Angular e WordPress, além de automações e outras ferramentas do dia a dia.
+Tenho facilidade com tecnologia, gosto de resolver problemas e aprender coisas novas. Uso o GitHub para organizar meus projetos, testar ideias e acompanhar minha evolução como desenvolvedor.
+Ainda estou no ensino médio, mas levo programação a sério e busco sempre melhorar, tanto no código quanto como pessoa..</p>
 
 ###
 
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCI3TpWmevXH0dkI0ZxoTDHA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mp_programmer/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mgdp07/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-gon%C3%A7alves-dias-peixoto-337733228/)
 
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=devmgdp&show_icons=true&theme=dracula)
@@ -30,6 +30,6 @@ Também tenho experiência em Python e PHP, ampliando minha capacidade de resolv
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div> <br>
 
-No momento estou estudando: Angular
+No momento estou estudando Angular
 
 E-mail para contato: miguelgdpeixoto09@gmail.com
